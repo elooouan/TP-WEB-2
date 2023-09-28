@@ -1,0 +1,60 @@
+/* Style for the public profile section */
+#publicProfile {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+/* ----------------------------------UPCOMING PARTIES------------------------------------ */
+
+#upcoming-parties {
+    width: 72%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+#upcoming-parties th,
+#upcoming-parties td {
+    padding: 10px;
+    text-align: left;
+}
+
+#upcoming-parties th {
+    background-color: #7a96b4;
+    color: white;
+}
+
+#upcoming-parties tr {
+    background-color: #ecf1f4;
+}
+
+#upcoming-parties tr:hover {
+    background-color: #d9edf7; /* I DID NOT KNOW THIS TY CHAT GPT */
+}
+
+/* ----------------------------------PREVIOUS PARTIES------------------------------------ */
+
+#previous-parties {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#previous-parties th,
+#previous-parties td {
+    padding: 10px;
+    text-align: left;
+    color: #888;
+}
+
+#previous-parties th {
+    background-color: #ccc;
+}
+
+#previous-parties tr {
+    background-color: #f0f0f0;
+}
+
+
+
